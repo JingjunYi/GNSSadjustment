@@ -1,0 +1,71 @@
+Mode: NOBASIC
+Set point 1 for virtual basic
+
+Points
+ID: 1
+is_basic: yes
+initial coordinates (x, y, z): 0.000000, 0.000000, 0.000000
+adjusted coordinates (x_, y_, z_): 0.000000, 0.000000, 0.000000
+ID: 2
+is_basic: no
+initial coordinates (x, y, z): 0.000000, 0.000000, 0.000000
+adjusted coordinates (x_, y_, z_): -519.547000, 2730.001000, 1.087000
+ID: 3
+is_basic: no
+initial coordinates (x, y, z): 0.000000, 0.000000, 0.000000
+adjusted coordinates (x_, y_, z_): -890.631000, 6017.188000, 1.985000
+ID: 4
+is_basic: no
+initial coordinates (x, y, z): 0.000000, 0.000000, 0.000000
+adjusted coordinates (x_, y_, z_): 1632.834000, 445.751000, 1.070000
+ID: 5
+is_basic: no
+initial coordinates (x, y, z): 0.000000, 0.000000, 0.000000
+adjusted coordinates (x_, y_, z_): 1224.643000, 2767.124000, 2.975000
+ID: 6
+is_basic: no
+initial coordinates (x, y, z): 0.000000, 0.000000, 0.000000
+adjusted coordinates (x_, y_, z_): 964.839000, 5682.907000, 2.419000
+ID: 7
+is_basic: no
+initial coordinates (x, y, z): 0.000000, 0.000000, 0.000000
+adjusted coordinates (x_, y_, z_): 500.957000, 8320.066000, 1.865000
+ID: 8
+is_basic: no
+initial coordinates (x, y, z): 0.000000, 0.000000, 0.000000
+adjusted coordinates (x_, y_, z_): 3043.042000, -315.711000, 0.542000
+
+
+Edges
+ID: 1
+points: P4 P1
+initial baseliine (dx, dy, dz): -1632.834000, -445.751000, -1.070000
+adjusted baseline (dx_, dy_, dz_): -1632.834000, -445.751000, -1.070000
+ID: 2
+points: P1 P2
+initial baseliine (dx, dy, dz): -519.547000, 2730.001000, 1.087000
+adjusted baseline (dx_, dy_, dz_): -519.547000, 2730.001000, 1.087000
+ID: 3
+points: P2 P5
+initial baseliine (dx, dy, dz): 1744.190000, 37.123000, 1.888000
+adjusted baseline (dx_, dy_, dz_): 1744.190000, 37.123000, 1.888000
+ID: 4
+points: P2 P6
+initial baseliine (dx, dy, dz): 1484.372000, 2952.909000, 1.329000
+adjusted baseline (dx_, dy_, dz_): 1484.386000, 2952.906000, 1.332000
+ID: 5
+points: P2 P3
+initial baseliine (dx, dy, dz): -371.070000, 3287.184000, 0.901000
+adjusted baseline (dx_, dy_, dz_): -371.084000, 3287.187000, 0.898000
+ID: 6
+points: P6 P3
+initial baseliine (dx, dy, dz): -1855.484000, 334.284000, -0.437000
+adjusted baseline (dx_, dy_, dz_): -1855.470000, 334.281000, -0.434000
+ID: 7
+points: P3 P7
+initial baseliine (dx, dy, dz): 1391.588000, 2302.878000, -0.120000
+adjusted baseline (dx_, dy_, dz_): 1391.588000, 2302.878000, -0.120000
+ID: 8
+points: P8 P4
+initial baseliine (dx, dy, dz): -1410.208000, 761.462000, 0.528000
+adjusted baseline (dx_, dy_, dz_): -1410.208000, 761.462000, 0.528000

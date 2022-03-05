@@ -1,0 +1,163 @@
+Mode: NOBASIC
+Set point 1 for virtual basic
+
+Points
+ID: 1
+is_basic: yes
+initial coordinates (x, y, z): 0.000000, 0.000000, 0.000000
+adjusted coordinates (x_, y_, z_): 0.000000, 0.000000, 0.000000
+ID: 2
+is_basic: no
+initial coordinates (x, y, z): 0.000000, 0.000000, 0.000000
+adjusted coordinates (x_, y_, z_): -519.547033, 2730.007828, 1.094462
+ID: 3
+is_basic: no
+initial coordinates (x, y, z): 0.000000, 0.000000, 0.000000
+adjusted coordinates (x_, y_, z_): -890.621271, 6017.189968, 1.997781
+ID: 4
+is_basic: no
+initial coordinates (x, y, z): 0.000000, 0.000000, 0.000000
+adjusted coordinates (x_, y_, z_): 1632.834033, 445.744172, 1.062538
+ID: 5
+is_basic: no
+initial coordinates (x, y, z): 0.000000, 0.000000, 0.000000
+adjusted coordinates (x_, y_, z_): 1224.614522, 2767.157721, 2.983392
+ID: 6
+is_basic: no
+initial coordinates (x, y, z): 0.000000, 0.000000, 0.000000
+adjusted coordinates (x_, y_, z_): 964.857617, 5682.898625, 2.427676
+ID: 7
+is_basic: no
+initial coordinates (x, y, z): 0.000000, 0.000000, 0.000000
+adjusted coordinates (x_, y_, z_): 500.967603, 8320.073450, 1.887205
+ID: 8
+is_basic: no
+initial coordinates (x, y, z): 0.000000, 0.000000, 0.000000
+adjusted coordinates (x_, y_, z_): 3043.029576, -315.716206, 0.523220
+ID: 9
+is_basic: no
+initial coordinates (x, y, z): 0.000000, 0.000000, 0.000000
+adjusted coordinates (x_, y_, z_): 3191.460472, 2358.598259, 2.526894
+ID: 10
+is_basic: no
+initial coordinates (x, y, z): 0.000000, 0.000000, 0.000000
+adjusted coordinates (x_, y_, z_): 2375.656419, 4689.621026, 3.046055
+ID: 11
+is_basic: no
+initial coordinates (x, y, z): 0.000000, 0.000000, 0.000000
+adjusted coordinates (x_, y_, z_): 2375.633463, 6689.622756, 4.640159
+ID: 12
+is_basic: no
+initial coordinates (x, y, z): 0.000000, 0.000000, 0.000000
+adjusted coordinates (x_, y_, z_): 4323.335223, 1337.141952, 1.087229
+ID: 13
+is_basic: no
+initial coordinates (x, y, z): 0.000000, 0.000000, 0.000000
+adjusted coordinates (x_, y_, z_): 4249.099621, 3398.624802, 0.950573
+ID: 14
+is_basic: no
+initial coordinates (x, y, z): 0.000000, 0.000000, 0.000000
+adjusted coordinates (x_, y_, z_): 4063.546168, 5032.915195, 2.071596
+
+
+Edges
+ID: 1
+points: P4 P1
+initial baseliine (dx, dy, dz): -1632.834000, -445.751000, -1.070000
+adjusted baseline (dx_, dy_, dz_): -1632.834033, -445.744172, -1.062538
+ID: 2
+points: P1 P2
+initial baseliine (dx, dy, dz): -519.547000, 2730.001000, 1.087000
+adjusted baseline (dx_, dy_, dz_): -519.547033, 2730.007828, 1.094462
+ID: 3
+points: P2 P5
+initial baseliine (dx, dy, dz): 1744.190000, 37.123000, 1.888000
+adjusted baseline (dx_, dy_, dz_): 1744.161555, 37.149893, 1.888930
+ID: 4
+points: P2 P6
+initial baseliine (dx, dy, dz): 1484.372000, 2952.909000, 1.329000
+adjusted baseline (dx_, dy_, dz_): 1484.404650, 2952.890797, 1.333214
+ID: 5
+points: P2 P3
+initial baseliine (dx, dy, dz): -371.070000, 3287.184000, 0.901000
+adjusted baseline (dx_, dy_, dz_): -371.074238, 3287.182139, 0.903319
+ID: 6
+points: P6 P3
+initial baseliine (dx, dy, dz): -1855.484000, 334.284000, -0.437000
+adjusted baseline (dx_, dy_, dz_): -1855.478888, 334.291343, -0.429895
+ID: 7
+points: P3 P7
+initial baseliine (dx, dy, dz): 1391.588000, 2302.878000, -0.120000
+adjusted baseline (dx_, dy_, dz_): 1391.588874, 2302.883482, -0.110576
+ID: 8
+points: P8 P4
+initial baseliine (dx, dy, dz): -1410.208000, 761.462000, 0.528000
+adjusted baseline (dx_, dy_, dz_): -1410.195543, 761.460378, 0.539317
+ID: 9
+points: P4 P5
+initial baseliine (dx, dy, dz): -408.232000, 2321.422000, 1.917000
+adjusted baseline (dx_, dy_, dz_): -408.219510, 2321.413549, 1.920855
+ID: 10
+points: P5 P9
+initial baseliine (dx, dy, dz): 1966.853000, -408.542000, -0.458000
+adjusted baseline (dx_, dy_, dz_): 1966.845950, -408.559462, -0.456499
+ID: 11
+points: P6 P5
+initial baseliine (dx, dy, dz): 259.748000, -2915.705000, 0.559000
+adjusted baseline (dx_, dy_, dz_): 259.756905, -2915.740904, 0.555716
+ID: 12
+points: P10 P6
+initial baseliine (dx, dy, dz): -1410.776000, 993.282000, -0.609000
+adjusted baseline (dx_, dy_, dz_): -1410.798802, 993.277599, -0.618379
+ID: 13
+points: P6 P11
+initial baseliine (dx, dy, dz): 1410.785000, 1006.710000, 2.208000
+adjusted baseline (dx_, dy_, dz_): 1410.775845, 1006.724132, 2.212483
+ID: 14
+points: P7 P6
+initial baseliine (dx, dy, dz): 463.895000, -2637.183000, 0.527000
+adjusted baseline (dx_, dy_, dz_): 463.890014, -2637.174825, 0.540471
+ID: 15
+points: P7 P11
+initial baseliine (dx, dy, dz): 1874.660000, -1630.448000, 2.757000
+adjusted baseline (dx_, dy_, dz_): 1874.665860, -1630.450693, 2.752954
+ID: 16
+points: P12 P8
+initial baseliine (dx, dy, dz): -1280.313000, -1652.853000, -0.558000
+adjusted baseline (dx_, dy_, dz_): -1280.305647, -1652.858158, -0.564009
+ID: 17
+points: P9 P8
+initial baseliine (dx, dy, dz): -148.436000, -2674.318000, -2.021000
+adjusted baseline (dx_, dy_, dz_): -148.430896, -2674.314465, -2.003674
+ID: 18
+points: P9 P12
+initial baseliine (dx, dy, dz): 1131.864000, -1021.458000, -1.436000
+adjusted baseline (dx_, dy_, dz_): 1131.874751, -1021.456307, -1.439665
+ID: 19
+points: P13 P9
+initial baseliine (dx, dy, dz): -1057.654000, -1040.031000, 1.566000
+adjusted baseline (dx_, dy_, dz_): -1057.639149, -1040.026543, 1.576321
+ID: 20
+points: P9 P10
+initial baseliine (dx, dy, dz): -815.796000, 2331.041000, 0.521000
+adjusted baseline (dx_, dy_, dz_): -815.804053, 2331.022767, 0.519161
+ID: 21
+points: P10 P14
+initial baseliine (dx, dy, dz): 1687.875000, 343.308000, -0.982000
+adjusted baseline (dx_, dy_, dz_): 1687.889749, 343.294169, -0.974459
+ID: 22
+points: P11 P14
+initial baseliine (dx, dy, dz): 1687.916000, -1656.719000, -2.569000
+adjusted baseline (dx_, dy_, dz_): 1687.912705, -1656.707562, -2.568563
+ID: 23
+points: P13 P12
+initial baseliine (dx, dy, dz): 74.239000, -2061.476000, 0.139000
+adjusted baseline (dx_, dy_, dz_): 74.235602, -2061.482850, 0.136656
+ID: 24
+points: P14 P13
+initial baseliine (dx, dy, dz): 185.542000, -1634.288000, -1.129000
+adjusted baseline (dx_, dy_, dz_): 185.553453, -1634.290393, -1.121023
+ID: 24
+points: P14 P13
+initial baseliine (dx, dy, dz): 185.542000, -1634.288000, -1.129000
+adjusted baseline (dx_, dy_, dz_): 185.553453, -1634.290393, -1.121023
