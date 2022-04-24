@@ -7,6 +7,7 @@ To utilize our repo, please duplicate our code to your own code base in Visual S
 
 ### Information
 
-'''
+```
 Main logic program: adjustment.cpp
-'''
+Data structure: point.cpp, edge.cpp
+```
